@@ -1,1 +1,1 @@
-# Counter-Strike-1.6-build-8684
+# Counter-Strike-1.6
